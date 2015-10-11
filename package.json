@@ -26,6 +26,9 @@
   "dependencies": {
     "image-size-loader": "^0.7.0"
   },
+  "peerDependencies": {
+    "react": "^0.14.0"
+  },
   "devDependencies": {
     "eslint": "^1.6.0",
     "eval": "^0.1.1",
